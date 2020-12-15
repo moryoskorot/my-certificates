@@ -24,13 +24,13 @@ PluralSight
 Linkedin Learn
 -  Certified Kubernetes Administrator (CKA) Cert Prep: The Basics - 1.5Hr
   
--  Master Cloud-Native Infrastructure with Kubernetes (Path) - 12Hr
-  --  Learning Docker - 2.75Hr
-  --  Learning Kubernetes - 2.5Hr
-  --  Kubernetes: Cloud Native Ecosystem - 0.5Hr
-  --  Kubernetes: Monitoring with Prometheus - 1Hr
-  --  Kubernetes: Service Mesh with Istio - 1.30Hr
-  --  Kubernetes: Native Tools - 0.75Hr
-  --  Kubernetes: Microservices - 1.5Hr
-  --  Learning Kubernetes - 2.5Hr
+Master Cloud-Native Infrastructure with Kubernetes (Path in Linkedin Learn) - 12Hr
+  -  Learning Docker - 2.75Hr
+  -  Learning Kubernetes - 2.5Hr
+  -  Kubernetes: Cloud Native Ecosystem - 0.5Hr
+  -  Kubernetes: Monitoring with Prometheus - 1Hr
+  -  Kubernetes: Service Mesh with Istio - 1.30Hr
+  -  Kubernetes: Native Tools - 0.75Hr
+  -  Kubernetes: Microservices - 1.5Hr
+  -  Learning Kubernetes - 2.5Hr
   
