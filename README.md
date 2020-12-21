@@ -23,6 +23,7 @@ PluralSight
   
 Linkedin Learn
 -  Certified Kubernetes Administrator (CKA) Cert Prep: The Basics - 1.5Hr
+-  Kubernetes: Package Management with Helm - 1Hr
   
 Path in Linkedin Learn: Master Cloud-Native Infrastructure with Kubernetes  - 12Hr
   -  Learning Docker - 2.75Hr
