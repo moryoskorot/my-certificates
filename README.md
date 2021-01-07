@@ -8,8 +8,8 @@ Major Certificates (through acclaim)
   
   https://www.youracclaim.com/badges/f54603f8-0852-419f-8fe2-1328ff5f5f23
 - CKA: Certified Kubernetes Administrator 
-  
-  https://www.youracclaim.com/earner/earned/badge/e3dbbc66-329c-411f-b6ba-d7b55d47deaf
+
+  https://www.youracclaim.com/badges/e3dbbc66-329c-411f-b6ba-d7b55d47deaf
   
   
 Udemy
