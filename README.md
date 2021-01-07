@@ -4,9 +4,10 @@ Hello,
 
 
 Major Certificates (through acclaim)
--  VMWare Certification - Virtualization and Cloud Concepts - by NDG : IT Academy
-
-    https://www.youracclaim.com/badges/f54603f8-0852-419f-8fe2-1328ff5f5f23
+- VMWare Certification - Virtualization and Cloud Concepts - by NDG : IT Academy
+  https://www.youracclaim.com/badges/f54603f8-0852-419f-8fe2-1328ff5f5f23
+- CKA: Certified Kubernetes Administrator 
+  https://www.youracclaim.com/earner/earned/badge/e3dbbc66-329c-411f-b6ba-d7b55d47deaf
   
   
 Udemy
