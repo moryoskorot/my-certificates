@@ -25,6 +25,7 @@ PluralSight
 -  Maven fundamentals - 2.5Hr
   
 Linkedin Learn
+-  Docker: Continuous Delivery - 2Hr
 -  Certified Kubernetes Administrator (CKA) Cert Prep: The Basics - 1.5Hr
 -  Kubernetes: Package Management with Helm - 1Hr
   
