@@ -28,7 +28,8 @@ Linkedin Learn
 -  Docker: Continuous Delivery - 2Hr
 -  Certified Kubernetes Administrator (CKA) Cert Prep: The Basics - 1.5Hr
 -  Kubernetes: Package Management with Helm - 1Hr
-  
+-  Google Cloud Platform Essential Training for Administrators 
+ 
 Path in Linkedin Learn: Master Cloud-Native Infrastructure with Kubernetes  - 12Hr
   -  Learning Docker - 2.75Hr
   -  Learning Kubernetes - 2.5Hr
