@@ -10,8 +10,13 @@ Major Certificates (through acclaim)
 - CKA: Certified Kubernetes Administrator 
 
   https://www.youracclaim.com/badges/e3dbbc66-329c-411f-b6ba-d7b55d47deaf
-  
-  
+- AWS Certified Solutions Architect – Associate
+
+  https://www.credly.com/badges/eee59d47-cc37-4fab-9b4f-51b9fad829b7
+
+Cantrill.io
+-  (course) AWS Certified Solutions Architect - Associate (SAA-C02)
+
 Udemy
 -  Certified Kubernetes Administrator with practice tests (by Mumshad Mannambeth) - 18Hr 
 -  DevOps Essentials - 2.5Hr
