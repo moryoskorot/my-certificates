@@ -3,16 +3,20 @@ Hello,
 
 
 
-Major Certificates (through acclaim)
+Major Certificates (through acclaim/credly)
 - VMWare Certification - Virtualization and Cloud Concepts - by NDG : IT Academy
-  
   https://www.youracclaim.com/badges/f54603f8-0852-419f-8fe2-1328ff5f5f23
+
 - CKA: Certified Kubernetes Administrator 
-
   https://www.youracclaim.com/badges/e3dbbc66-329c-411f-b6ba-d7b55d47deaf
-- AWS Certified Solutions Architect – Associate
 
+- AWS Certified Solutions Architect – Associate (SAA-C02)
   https://www.credly.com/badges/eee59d47-cc37-4fab-9b4f-51b9fad829b7
+
+- GCP - Associate Cloud Engineer(ACE)
+  <To be added in the next few days>
+
+
 
 Cantrill.io
 -  (course) AWS Certified Solutions Architect - Associate (SAA-C02)
