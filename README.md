@@ -17,6 +17,9 @@ Major Certificates (through acclaim)
 Cantrill.io
 -  (course) AWS Certified Solutions Architect - Associate (SAA-C02)
 
+AntonIT.com
+-  (course)Google Cloud -  Associate Cloud Engineer
+
 Udemy
 -  Certified Kubernetes Administrator with practice tests (by Mumshad Mannambeth) - 18Hr 
 -  DevOps Essentials - 2.5Hr
