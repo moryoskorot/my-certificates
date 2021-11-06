@@ -51,7 +51,6 @@ Path in Linkedin Learn: Master Cloud-Native Infrastructure with Kubernetes  - 12
   -  Learning Kubernetes - 2.5Hr
   -  Kubernetes: Cloud Native Ecosystem - 0.5Hr
   -  Kubernetes: Monitoring with Prometheus - 1Hr
-  -  Kubernetes: Service Mesh with Istio - 1.30Hr
   -  Kubernetes: Native Tools - 0.75Hr
   -  Kubernetes: Microservices - 1.5Hr
   -  Learning Kubernetes - 2.5Hr
