@@ -18,7 +18,8 @@ Major Certificates (through acclaim/credly)
 
 - GCP - Associate Cloud Engineer(ACE)
 
-  <To be added in the next few days>
+  (To be added in the next few days)
+  
 
 
 Cantrill.io
