@@ -17,8 +17,8 @@ Major Certificates (through acclaim/credly)
   https://www.credly.com/badges/eee59d47-cc37-4fab-9b4f-51b9fad829b7
 
 - GCP - Associate Cloud Engineer(ACE)
-
-  (To be added in the next few days)
+  
+  https://www.credential.net/5a1fcc68-3ced-44fa-b506-0a7edee791ca?record_view=true
   
 
 
