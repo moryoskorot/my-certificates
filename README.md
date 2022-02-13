@@ -32,7 +32,9 @@ Udemy
 -  Certified Kubernetes Administrator with practice tests (by Mumshad Mannambeth) - 18Hr 
 -  DevOps Essentials - 2.5Hr
 -  Docker Essentials - 3Hr
-  
+
+A Cloud Guru
+-  AWS Certified Security - Specialty 2020
   
 PluralSight
 -  Automating Container Management With Ansible - 1Hr
