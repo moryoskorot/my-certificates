@@ -16,6 +16,10 @@ Major Certificates (through acclaim/credly)
 
   https://www.credly.com/badges/eee59d47-cc37-4fab-9b4f-51b9fad829b7
 
+- AWS Certified Security Specialist
+
+  https://www.credly.com/badges/18212570-953e-4e4c-b7e6-df4924a785b0
+
 - GCP - Associate Cloud Engineer(ACE)
   
   https://www.credential.net/5a1fcc68-3ced-44fa-b506-0a7edee791ca?record_view=true
