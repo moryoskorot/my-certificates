@@ -1,7 +1,5 @@
 Hello, 
-  this is a list of my certifications (big and small)
-
-
+  this is a list of my certifications and courses
 
 Major Certificates (through acclaim/credly)
 - VMWare Certification - Virtualization and Cloud Concepts - by NDG : IT Academy
@@ -11,6 +9,10 @@ Major Certificates (through acclaim/credly)
 - CKA: Certified Kubernetes Administrator 
 
   https://www.youracclaim.com/badges/e3dbbc66-329c-411f-b6ba-d7b55d47deaf
+  
+- CKS: Certified Kubernetes Security Specialist
+
+  https://www.credly.com/badges/6d42b325-e2ca-44c0-8892-d1b82c8add54
 
 - AWS Certified Solutions Architect – Associate (SAA-C02)
 
@@ -27,40 +29,14 @@ Major Certificates (through acclaim/credly)
 
 
 Cantrill.io
--  (course) AWS Certified Solutions Architect - Associate (SAA-C02)
+-   AWS Certified Solutions Architect - Associate (SAA-C02)
+-   AWS Certified Security Specialist
 
 AntonIT.com
 -  (course)Google Cloud -  Associate Cloud Engineer
 
-Udemy
--  Certified Kubernetes Administrator with practice tests (by Mumshad Mannambeth) - 18Hr 
--  DevOps Essentials - 2.5Hr
--  Docker Essentials - 3Hr
-
-A Cloud Guru
--  AWS Certified Security - Specialty 2020
-  
-PluralSight
--  Automating Container Management With Ansible - 1Hr
--  Getting started with Jenkins 3.5Hr
--  Hands-on Ansible - 4Hr
--  Maven fundamentals - 2.5Hr
-  
-Linkedin Learn
--  Docker: Continuous Delivery - 2Hr
--  Certified Kubernetes Administrator (CKA) Cert Prep: The Basics - 1.5Hr
--  Kubernetes: Package Management with Helm - 1Hr
--  Google Cloud Platform Essential Training for Administrators 
- 
-Path in Linkedin Learn: Master Cloud-Native Infrastructure with Kubernetes  - 12Hr
-  -  Learning Docker - 2.75Hr
-  -  Learning Kubernetes - 2.5Hr
-  -  Kubernetes: Cloud Native Ecosystem - 0.5Hr
-  -  Kubernetes: Monitoring with Prometheus - 1Hr
-  -  Kubernetes: Native Tools - 0.75Hr
-  -  Kubernetes: Microservices - 1.5Hr
-  -  Learning Kubernetes - 2.5Hr
-
 KodeKloud 
 - CKA
 - CKS
+
+Also various other subjects from PluralSight, Udemy and Linkedin Learn
