@@ -1,7 +1,6 @@
 Hello, 
   this is a list of my certifications
-
-Major Certificates (through acclaim/credly)
+  
 - VMWare Certification - Virtualization and Cloud Concepts - by NDG : IT Academy
 
   https://www.youracclaim.com/badges/f54603f8-0852-419f-8fe2-1328ff5f5f23
