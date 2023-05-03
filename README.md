@@ -26,17 +26,7 @@ Major Certificates (through acclaim/credly)
   
   https://www.credential.net/5a1fcc68-3ced-44fa-b506-0a7edee791ca?record_view=true
   
+- GCP - Professional Cloud DevOps Engineer
 
-
-Cantrill.io
--   AWS Certified Solutions Architect - Associate (SAA-C02)
--   AWS Certified Security Specialist
-
-AntonIT.com
--  (course)Google Cloud -  Associate Cloud Engineer
-
-KodeKloud 
-- CKA
-- CKS
-
-Also various other subjects from PluralSight, Udemy and Linkedin Learn
+  https://www.credential.net/6b3f53a0-62d6-4744-8fbe-a0c3b348ebe0
+  
