@@ -12,6 +12,10 @@ Hello,
 - CKS: Certified Kubernetes Security Specialist
 
   https://www.credly.com/badges/6d42b325-e2ca-44c0-8892-d1b82c8add54
+  
+- ICA: Istio Certified Associate
+
+  https://www.credly.com/earner/earned/badge/200c3541-44f2-4684-b41d-3cf81392317a
 
 - AWS Certified Solutions Architect – Associate (SAA-C02)
 
