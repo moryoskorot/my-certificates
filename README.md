@@ -32,4 +32,7 @@ Hello,
 - GCP - Professional Cloud DevOps Engineer
 
   https://www.credential.net/6b3f53a0-62d6-4744-8fbe-a0c3b348ebe0
-  
+
+- HashiCorp Certified: Vault Associate (002)
+
+  https://www.credly.com/earner/earned/badge/11b18b9d-59d8-405a-8742-03344f527e5a
