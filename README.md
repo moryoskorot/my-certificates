@@ -17,6 +17,10 @@ Hello,
 
   https://www.credly.com/earner/earned/badge/200c3541-44f2-4684-b41d-3cf81392317a
 
+- GitOps at Scale certificate (with ArgoCD) ( by CodeFresh )
+
+  https://mycourse.app/87xgTFQCUjQtFD5R8
+
 - AWS Certified Solutions Architect – Associate (SAA-C02)
 
   https://www.credly.com/badges/eee59d47-cc37-4fab-9b4f-51b9fad829b7
