@@ -3,11 +3,11 @@ Hello,
   
 - VMWare Certification - Virtualization and Cloud Concepts - by NDG : IT Academy
 
-  https://www.youracclaim.com/badges/f54603f8-0852-419f-8fe2-1328ff5f5f23
+  https://www.credly.com/badges/f54603f8-0852-419f-8fe2-1328ff5f5f23
 
 - CKA: Certified Kubernetes Administrator 
 
-  https://www.youracclaim.com/badges/e3dbbc66-329c-411f-b6ba-d7b55d47deaf
+  No Longer available on Credly, contact to receive if relevant 
   
 - CKS: Certified Kubernetes Security Specialist
 
@@ -15,11 +15,11 @@ Hello,
   
 - ICA: Istio Certified Associate
 
-  https://www.credly.com/earner/earned/badge/200c3541-44f2-4684-b41d-3cf81392317a
+ https://www.credly.com/badges/200c3541-44f2-4684-b41d-3cf81392317a
 
 - GitOps at Scale certificate (with ArgoCD) ( by CodeFresh )
 
-  https://mycourse.app/87xgTFQCUjQtFD5R8
+  https://www.credly.com/badges/feb3b04f-8592-4025-94f1-af507295e2ba
 
 - AWS Certified Solutions Architect – Associate (SAA-C02)
 
@@ -31,12 +31,16 @@ Hello,
 
 - GCP - Associate Cloud Engineer(ACE)
   
-  https://www.credential.net/5a1fcc68-3ced-44fa-b506-0a7edee791ca?record_view=true
+  https://www.credly.com/badges/f3cab94c-3d71-46b4-9496-126df96b856b
   
 - GCP - Professional Cloud DevOps Engineer
 
-  https://www.credential.net/6b3f53a0-62d6-4744-8fbe-a0c3b348ebe0
+  https://www.credly.com/badges/a22be5e7-5c14-4142-ad5a-fa8120526e7a
+
+- GCP - Professional Cloud Architect
+  
+  https://www.credly.com/badges/7529c66f-e54f-4e5d-9be6-3bf5c8c84ae0
 
 - HashiCorp Certified: Vault Associate (002)
 
-  https://www.credly.com/earner/earned/badge/11b18b9d-59d8-405a-8742-03344f527e5a
+  https://www.credly.com/badges/11b18b9d-59d8-405a-8742-03344f527e5a
