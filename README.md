@@ -41,11 +41,11 @@ Hello,
   
   https://www.credly.com/badges/7529c66f-e54f-4e5d-9be6-3bf5c8c84ae0
 
-  - GCP - Professional Cloud Network Engineer 
+- GCP - Professional Cloud Network Engineer 
   
   https://www.credly.com/badges/a2657ab5-c284-4865-8f13-768e103ec6c2
 
-  - GCP - Professional Cloud Security Engineer 
+- GCP - Professional Cloud Security Engineer 
   
   https://www.credly.com/badges/0585274b-3802-49e2-9583-527c6306a31c
 
